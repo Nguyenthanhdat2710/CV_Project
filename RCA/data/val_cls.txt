@@ -1,0 +1,1 @@
+/content/VOCdevkit/VOC2012/ImageSets/Segmentation/val_cls.txt
