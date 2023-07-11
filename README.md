@@ -1,2 +1,2 @@
 # CV_Project
-This our source code project.
+This is our source code project.
